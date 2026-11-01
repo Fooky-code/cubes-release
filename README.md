@@ -1,0 +1,2 @@
+# cubes-release
+Offline POS
