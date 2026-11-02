@@ -2,7 +2,7 @@ CUBES — Ice Business POS
 Point-of-sale app for an ice business. Android tablet, 7" and up.
 
 **Download**
-[Download CUBES 1.0.2 — APK](https://github.com/Fooky-code/cubes-release/releases/download/v1.0.0/CUBES-1.0.2.apk)
+[Download CUBES 1.0.2 — APK](https://github.com/Fooky-code/cubes-release/releases/download/v1.0.2/CUBES-1.0.2.apk)
 
 **Install**
 Tap the download link above, on the tablet.
